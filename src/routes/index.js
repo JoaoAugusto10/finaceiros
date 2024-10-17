@@ -9,7 +9,7 @@ function routes(){
 
   return(
     signed ? <View></View> : <AuthRoutes/>
-  )C:\Users\jjjau\financeiros
+  )
 }
 
 export default routes;
